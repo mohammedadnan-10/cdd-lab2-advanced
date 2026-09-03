@@ -1,2 +1,3 @@
 RULES ONLY
 1. Age is a number and numbers are integer.
+2.all humans are mortal.
