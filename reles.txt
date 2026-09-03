@@ -1,3 +1,7 @@
 RULES ONLY
 1. Age is a number and numbers are integer.
+<<<<<<< HEAD
 !!!!!!IMPORTANT UPDATE HAS BEEN RELEASED!!!!!!
+=======
+2.now we are in cdd lab
+>>>>>>> 1cde09c (made changes to file)
