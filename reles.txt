@@ -1,3 +1,7 @@
 RULES ONLY
 1. Age is a number and numbers are integer.
+<<<<<<< HEAD
 !!!!!!IMPORTANT UPDATE HAS BEEN RELEASED!!!!!!
+=======
+2. lallalalalla
+>>>>>>> 8f8ba4f (Add)
