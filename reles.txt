@@ -1,4 +1,5 @@
 RULES ONLY
 1. Age is a number and numbers are integer.
 2. Avneesh is god
+3.dex ka bday hai
 
