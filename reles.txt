@@ -1,3 +1,9 @@
 RULES ONLY
 1. Age is a number and numbers are integer.
+<<<<<<< HEAD
 !!!!!!IMPORTANT UPDATE HAS BEEN RELEASED!!!!!!
+=======
+2.Welcome to CDD lab 3
+
+
+>>>>>>> db721bf (rules1)
