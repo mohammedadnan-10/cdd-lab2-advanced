@@ -1,3 +1,8 @@
 RULES ONLY
 1. Age is a number and numbers are integer.
+<<<<<<< HEAD
 !!!!!!IMPORTANT UPDATE HAS BEEN RELEASED!!!!!!
+=======
+2.integers are numbers
+3.age is an integer
+>>>>>>> 08246fb (changes are done)
